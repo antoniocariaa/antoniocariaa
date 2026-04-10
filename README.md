@@ -1,8 +1,7 @@
 # Antonio, nice to meet you!
 <p>I'm a Computer Science student at University of Trento</p>
 <p>I really love Java and OOP</p>
-<p>I'm currently working on <a href="https://github.com/antoniocariaa/OrticelloAPI">OrticelloAPI</a> and <a href="https://github.com/antoniocariaa/Orticello">Orticello</a>, a web application for managing public green gardens</p>
-<br>
+<p>I have recently completed <a href="https://github.com/antoniocariaa/OrticelloAPI">OrticelloAPI</a> and <a href="https://github.com/antoniocariaa/Orticello">Orticello</a>, a web application for managing public gardens. It was built for a contest where my teammates and I took 3rd place.</p>
 <p>I wish the world could be more open source</p>Sometimes I play harmonica.</p>
 
 ---
