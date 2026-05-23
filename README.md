@@ -1,7 +1,7 @@
 # Antonio, nice to meet you!
 I'm a Computer Science student at University of Trento and I really love Java and OOP!
 #### Recently
-- I participated at my first hackaton and with my team, won **3rd place** with ([RovUrbEQ](https://github.com/antoniocariaa/RovUrbEQ)).
+- I participated at my first hackaton and with my team, won **3rd place** with [RovUrbEQ](https://github.com/antoniocariaa/RovUrbEQ).
 - Recently, me and my teammates took **3rd place** in a contest by presenting <a href="https://github.com/antoniocariaa/OrticelloAPI">OrticelloAPI</a> and <a href="https://github.com/antoniocariaa/Orticello">Orticello</a>, a web application for managing public gardens.
 
 I wish the world could be more open source. <br>
